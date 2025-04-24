@@ -21,8 +21,6 @@
 title: LUMIPLAY
 email: contact@lumiplays.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhoneNumber: +84352752025              
-  
   Address: 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
