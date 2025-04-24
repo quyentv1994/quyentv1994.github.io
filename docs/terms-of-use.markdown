@@ -4,7 +4,7 @@ title: Term of use
 permalink: /terms-of-use/
 ---
 
-TITAN GLOBAL TERMS OF USE
+LUMIPLAY TERMS OF USE
 
 BY INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO THESE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS OF USE, PLEASE DO NOT INSTALL, USE OR OTHERWISE ACCESS THE SERVICE. USE OF THE SERVICE IS VOID WHERE PROHIBITED.
 
@@ -22,10 +22,10 @@ Any use of the Service in violation of these License Limitations is strictly pro
 We reserve the right to determine what conduct it considers to be in violation of the rules of use or otherwise outside the intent or spirit of these Terms of Use or the Service itself. We reserve the right to take action as a result, which may include prohibiting you from using the Service in whole or in part.
 
 OWNERSHIP
-All rights, title and interest in and to the Service (including without limitation any games, titles, computer code, themes, objects, characters, character names, stories, dialogue, catch phrases, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, documentation, in-game chat transcripts, character profile information, recordings of games played using a game client, and server software) are owned by Titan. We reserve all rights, including without limitation, all intellectual property rights or other proprietary rights, in connection with its games and the Service.
+All rights, title and interest in and to the Service (including without limitation any games, titles, computer code, themes, objects, characters, character names, stories, dialogue, catch phrases, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, documentation, in-game chat transcripts, character profile information, recordings of games played using a game client, and server software) are owned by LumiPlay. We reserve all rights, including without limitation, all intellectual property rights or other proprietary rights, in connection with its games and the Service.
 
 USER CONTENT
-“User Content” means any communications, images, sounds, and all the material, data, and information that you upload or transmit through a Titan game client or the Service, or that other users upload or transmit, including without limitation any chat text.
+“User Content” means any communications, images, sounds, and all the material, data, and information that you upload or transmit through a LumiPlay game client or the Service, or that other users upload or transmit, including without limitation any chat text.
 
 By entering into these Terms of Use, you hereby provide your irrevocable consent to such monitoring and recording. You acknowledge and agree that you have no expectation of privacy concerning the transmission of any User Content, including without limitation chat text or voice communications.
 
@@ -37,29 +37,29 @@ The Service may include various forums, blogs and chat features where you can po
 
 3.2. Responsible For Your Own Content
 
-You are solely responsible for the information that you post on, through or in connection with the Service and that you provide to others. We may reject, refuse to post or delete any User Content for any or no reason, including, but not limited to, User Content that in the sole judgment of Titan violates these Terms of Use.
+You are solely responsible for the information that you post on, through or in connection with the Service and that you provide to others. We may reject, refuse to post or delete any User Content for any or no reason, including, but not limited to, User Content that in the sole judgment of LumiPlay violates these Terms of Use.
 
 3.3. User Interactions
 
-You are solely responsible for your interactions with other users of the Service and any other parties with whom you interact through the Service and/or Titan games. We reserve the right, but has no obligation, to become involved in any way with these disputes. If you have a dispute with one or more users, you release us from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+You are solely responsible for your interactions with other users of the Service and any other parties with whom you interact through the Service and/or LumiPlay games. We reserve the right, but has no obligation, to become involved in any way with these disputes. If you have a dispute with one or more users, you release us from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 FEES AND PURCHASE TERMS
 4.1.Purchases
 
 In the Service you may purchase, with “real world” money, a limited, personal, non-transferable, non-sublicensable, revocable license to use (a) “virtual currency”, including but not limited to virtual cash or diamonds, all for use inour games; (b) “virtual in-game items” (together with “virtual currency”, “Virtual Items”); and (c) other goods or services (“Merchandise”). You are only allowed to purchase Virtual Items from us or our authorised partners through the Service, and not in any other way.
 
-Titan may manage, regulate, control, modify or eliminate Virtual Items and/or Merchandise at any time, with or without notice. Titan shall have no liability to you or any third party in the event that we exercise any such rights.
+LumiPlay may manage, regulate, control, modify or eliminate Virtual Items and/or Merchandise at any time, with or without notice. LumiPlay shall have no liability to you or any third party in the event that we exercise any such rights.
 
-The transfer of Virtual Items and Merchandise is prohibited except where expressly authorized in the Service. Other than as expressly authorized in the Service, you shall not sell, purchase, redeem or otherwise transfer Virtual Items or Merchandise to any person or entity or attempt any of the aforesaid, including but not limited to Titan, another user or any third party.
+The transfer of Virtual Items and Merchandise is prohibited except where expressly authorized in the Service. Other than as expressly authorized in the Service, you shall not sell, purchase, redeem or otherwise transfer Virtual Items or Merchandise to any person or entity or attempt any of the aforesaid, including but not limited to LumiPlay, another user or any third party.
 
 ALL PURCHASES AND REDEMPTIONS OF VIRTUAL ITEMS MADE THROUGH THE SERVICE ARE FINAL AND NON-REFUNDABLE.
 
 4.2. Payment of Fees
 
-You agree to pay all fees and applicable taxes incurred by you or anyone using an Account registered to you. Titan may revise the pricing for the goods and services offered through the Service at any time.
+You agree to pay all fees and applicable taxes incurred by you or anyone using an Account registered to you. LumiPlay may revise the pricing for the goods and services offered through the Service at any time.
 
 UPDATES TO THE SERVICE
-You understand that the Service is an evolving one. Titan may require that you accept updates to the Service and to our games you have installed on your device or computer. You acknowledge and agree that Titan may update the Service and games, with or without notifying you. You may need to update third party software from time to time in order to receive the Service and play Titan games.
+You understand that the Service is an evolving one. LumiPlay may require that you accept updates to the Service and to our games you have installed on your device or computer. You acknowledge and agree that LumiPlay may update the Service and games, with or without notifying you. You may need to update third party software from time to time in order to receive the Service and play LumiPlay games.
 
 DISCLAIMER OF WARRANTIES
 Without limiting the liability under Section 7 below, the Service is provided for your use with warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. We DO NOT warrant that you will be able to access or use the Service at the times or locations of your choosing; that the Service will be uninterrupted or error-free; that defects will be corrected; or that the game is free of harmful components.
@@ -67,38 +67,38 @@ Without limiting the liability under Section 7 below, the Service is provided fo
 Some jurisdictions do not allow the exclusion of certain warranties. Accordingly, some of the above disclaimers may not apply to you.
 
 LIMITATION OF LIABILITY
-To the maximum extent permitted by Law, Titan shall not be liable to you for any indirect, incidental, consequential, special or other similar damages, including but not limited to loss of revenues, lost profits, lost data or business interruption or other intangible losses.
+To the maximum extent permitted by Law, LumiPlay shall not be liable to you for any indirect, incidental, consequential, special or other similar damages, including but not limited to loss of revenues, lost profits, lost data or business interruption or other intangible losses.
 
-You agree to indemnify, defend and hold Titan harmless from any claim, demand, damages or other losses, including reasonable attorneys’ fees, asserted by any third-party resulting from or arising out of your use of the Service, or any breach by you of these Terms of Use, however the foregoing does not apply if the infringement of rights is not attributable to your intentional or negligent behavior.
+You agree to indemnify, defend and hold LumiPlay harmless from any claim, demand, damages or other losses, including reasonable attorneys’ fees, asserted by any third-party resulting from or arising out of your use of the Service, or any breach by you of these Terms of Use, however the foregoing does not apply if the infringement of rights is not attributable to your intentional or negligent behavior.
 
 SEVERABILITY
-You and Titan agree that if any portion of these Terms of Use or of the Privacy Policy is found illegal or unenforceable, in whole or in part by any court of competent jurisdiction, such provision shall, as to such jurisdiction, be ineffective solely to the extent of such determination of invalidity or unenforceability without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of the terms, which shall continue to be in full force and effect.
+You and LumiPlay agree that if any portion of these Terms of Use or of the Privacy Policy is found illegal or unenforceable, in whole or in part by any court of competent jurisdiction, such provision shall, as to such jurisdiction, be ineffective solely to the extent of such determination of invalidity or unenforceability without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of the terms, which shall continue to be in full force and effect.
 
 GENERAL PROVISIONS         
 9.1. Assignment
 
-Titan may assign or delegate these Terms of Use and/or the Privacy Policy, in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Terms of Use or Privacy Policy without Titan’s prior written consent, and any unauthorized assignment and delegation by you are ineffective.
+LumiPlay may assign or delegate these Terms of Use and/or the Privacy Policy, in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Terms of Use or Privacy Policy without LumiPlay’s prior written consent, and any unauthorized assignment and delegation by you are ineffective.
 
 9.2. Supplemental Policies
 
-Titan may publish additional policies related to specific services such as forums, contests or loyalty programs. Your right to use such services is subject to those specific policies and these Terms of Use.
+LumiPlay may publish additional policies related to specific services such as forums, contests or loyalty programs. Your right to use such services is subject to those specific policies and these Terms of Use.
 
 9.3. Entire Agreement
 
-These Terms of Use, any supplemental policies and any documents expressly incorporated by reference herein (including the Titan Privacy Policy), contain the entire understanding of you and Titan, and supersede all prior understandings of the parties hereto relating to the subject matter hereof, whether electronic, oral or written, or whether established by custom, practice, policy or precedent, between you and us with respect to the Service.
+These Terms of Use, any supplemental policies and any documents expressly incorporated by reference herein (including the LumiPlay Privacy Policy), contain the entire understanding of you and LumiPlay, and supersede all prior understandings of the parties hereto relating to the subject matter hereof, whether electronic, oral or written, or whether established by custom, practice, policy or precedent, between you and us with respect to the Service.
 
 9.4. No Waiver
 
-The failure of Titan to require or enforce strict performance by you of any provision of these Terms of Use or the Titan Privacy Policy or failure to exercise any right under them shall not be construed as a waiver or relinquishment of Titan’s right to assert or rely upon any such provision or right in that or any other instance.
+The failure of LumiPlay to require or enforce strict performance by you of any provision of these Terms of Use or the LumiPlay Privacy Policy or failure to exercise any right under them shall not be construed as a waiver or relinquishment of LumiPlay’s right to assert or rely upon any such provision or right in that or any other instance.
 
-The express waiver by Titan of any provision, condition, or requirement of these Terms of Use or the Titan Privacy Policy shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
+The express waiver by LumiPlay of any provision, condition, or requirement of these Terms of Use or the LumiPlay Privacy Policy shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
 
 9.5. Equitable Remedies
 
-You acknowledge that the rights granted and obligations made under these Terms of Use to Titan are of a unique and irreplaceable nature, the loss of which shall irreparably harm Titan and which cannot be replaced by monetary damages alone so that Titan shall be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety or proof of damages) in the event of any breach or anticipatory breach by you.
+You acknowledge that the rights granted and obligations made under these Terms of Use to LumiPlay are of a unique and irreplaceable nature, the loss of which shall irreparably harm LumiPlay and which cannot be replaced by monetary damages alone so that LumiPlay shall be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety or proof of damages) in the event of any breach or anticipatory breach by you.
 
-You irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Service or any Titan game, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Service or any content or other material used or displayed through the Service and agree to limit your claims to claims for monetary damages, limited by Section 7 (if any).
+You irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Service or any LumiPlay game, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Service or any content or other material used or displayed through the Service and agree to limit your claims to claims for monetary damages, limited by Section 7 (if any).
 
 If you have questions related to those Terms of Use, please contact us through:
-Gmail Address: teamtitansvn@gmail.com
-Address: 62 Nguyen Huy Tuong, Thanh Xuan Trung, HN
+Gmail Address: contact@lumiplays.com
+Address: 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong
