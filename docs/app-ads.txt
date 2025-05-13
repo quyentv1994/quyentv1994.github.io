@@ -1850,3 +1850,5 @@ Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
 google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+pangleglobal.com, 5029285, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
