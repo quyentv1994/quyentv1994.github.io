@@ -13,7 +13,7 @@ You must comply with applicable laws and platform requirements to use our Game.
 If you are under the age required by your local laws, you may use the Game only with the consent of a parent or legal guardian.
 
 ###2. License to Use the Game  
-We grant you a limited, non-exclusive, non-transferable, and revocable license to download and use the Game for personal, non-commercial purposes only.
+We grant you a **limited, non-exclusive, non-transferable, and revocable license** to download and use the Game for **personal, non-commercial purposes** only.
 You may not:
   - Copy, modify, or distribute the Game
   - Reverse engineer, decompile, or attempt to extract source code
@@ -27,7 +27,7 @@ Nothing in these Terms grants you ownership rights to any part of the Game.
 The Game may offer optional in-app purchases, including virtual items or features.
   - All purchases are processed through the applicable app store platform.
   - Prices and availability of IAPs are subject to change.
-  - Virtual items have no real-world monetary value and cannot be exchanged outside the Game.
+  - Virtual items have **no real-world monetary value** and cannot be exchanged outside the Game.
   - Refunds, if any, are handled in accordance with the policies of the platform provider (e.g., Apple App Store).
 
 ###5. Advertisements  
@@ -53,7 +53,7 @@ We may update, modify, or discontinue parts of the Game at any time to improve p
 Continued use of the Game after updates constitutes acceptance of such changes.
 
 ###9. Disclaimer of Warranties  
-The Game is provided “as is” and “as available”.
+The Game is provided **“as is” and “as available”**.
 To the maximum extent permitted by law, we disclaim all warranties, express or implied, including fitness for a particular purpose and non-infringement.
 
 ###10. Limitation of Liability  
@@ -65,7 +65,7 @@ We may suspend or terminate your access to the Game at any time if you violate t
 Termination does not affect any rights or obligations that have accrued prior to termination.
 
 ###12. Governing Law  
-These Terms shall be governed by and construed in accordance with the laws of Hong Kong, without regard to conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of **Hong Kong**, without regard to conflict of law principles.
 
 ###13. Changes to These Terms  
 We may update these Terms from time to time.
@@ -73,5 +73,5 @@ Any changes will be effective upon posting the updated Terms.
 
 ###14. Contact Us  
 If you have any questions regarding these Terms, please contact us:
-  - Email: contact@lumiplays.com
-  - Address: 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
+  - **Email:** contact@lumiplays.com
+  - **Address:** 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
