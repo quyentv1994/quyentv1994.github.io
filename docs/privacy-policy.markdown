@@ -10,17 +10,17 @@ We respect your privacy and are committed to protecting personal data. This Priv
 **1. Information We Collect**
 Our games are designed to be simple and accessible. We do not require users to create accounts and do not collect personal information such as names, email addresses, or phone numbers.
 We may collect limited non-personal technical information, including:
-  -Device type and operating system
-  -App version and basic usage data
-  -Anonymous performance and crash data
+  - Device type and operating system
+  - App version and basic usage data
+  - Anonymous performance and crash data
 When advertising is displayed, limited technical data may be collected by third-party advertising partners to support ad functionality.
 This information is collected to help us improve game stability, performance, and overall user experience.
 
 **2. How We Use Information**
 Any information collected is used for the following purposes:
-  -Improving game performance and stability
-  -Understanding how players interact with our games
-  -Fixing bugs and technical issues
+  - Improving game performance and stability
+  - Understanding how players interact with our games
+  - Fixing bugs and technical issues
 We do not use personal data for advertising targeting or profiling.
 Limited technical data may be used by third-party advertising services for purposes such as ad delivery, measurement, frequency capping, and fraud prevention.
 
@@ -44,5 +44,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 **8. Contact Us**
 If you have any questions about this Privacy Policy, please contact us:
-  -Email: contact@lumiplays.com
-  -Address: 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
+  - Email: contact@lumiplays.com
+  - Address: 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
