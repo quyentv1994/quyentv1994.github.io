@@ -3,8 +3,7 @@ layout: page
 title: About Us
 ---
 
-**Company Mission:**  
-To bring relaxing moments to millions of players worldwide.
+**Company Mission:** To bring relaxing moments to millions of players worldwide.
 
 We are a puzzle game startup dedicated to crafting high-quality, refined experiences with a strong emotional focus.
 LumiPlay Studio brings together a team of seasoned game industry professionals, united by a shared ambition to create emotionally engaging puzzle games for players worldwide.
