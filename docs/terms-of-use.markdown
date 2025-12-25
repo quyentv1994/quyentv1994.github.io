@@ -4,7 +4,7 @@ title: Term of use
 permalink: /terms-of-use/
 ---
 
-**Last updated:** December 2025
+**Last updated:** December 2025  
   These Terms of Use (“Terms”) govern your access to and use of any games, applications, and related services (“Game” or “Services”) provided by LumiPlay Limited (“LumiPlay”, “we”, “our”, or “us”).
 By downloading, accessing, or using our Game, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our Game.
 
