@@ -8,11 +8,11 @@ permalink: /terms-of-use/
 These Terms of Use (“Terms”) govern your access to and use of any games, applications, and related services (“Game” or “Services”) provided by LumiPlay Limited (“LumiPlay”, “we”, “our”, or “us”).
 By downloading, accessing, or using our Game, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our Game.
 
-**1. Eligibility**  
+#**1. Eligibility**  
 You must comply with applicable laws and platform requirements to use our Game.
 If you are under the age required by your local laws, you may use the Game only with the consent of a parent or legal guardian.
 
-**2. License to Use the Game**  
+##**2. License to Use the Game**  
 We grant you a limited, non-exclusive, non-transferable, and revocable license to download and use the Game for personal, non-commercial purposes only.
 You may not:
   - Copy, modify, or distribute the Game
