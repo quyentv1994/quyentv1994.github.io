@@ -2339,3 +2339,4 @@ openx.com, 539253360, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 27136, RESELLER, 0bfd66d529a5580
 themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
 bigo.sg, 23168457, DIRECT
+vungle.com, 620a741c57e0850014f4b357, DIRECT, c107d686becd2d77
