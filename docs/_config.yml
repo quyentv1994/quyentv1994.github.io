@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LUMIPLAY
-email: contact@lumiplays.com
+title: PLAYERFUN
+email: quyentv1994@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Address: 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
+  Address: CT1B - HatecoApolo, Xuân Phương, Hà Nội, Việt Nam.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
