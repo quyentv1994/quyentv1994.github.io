@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-**Last updated:** December 2025  
+**Last updated:** June 2026  
 We respect your privacy and are committed to protecting personal data. This Privacy Policy explains how we handle information when you use our games and related services.
 
 ### 1. Information We Collect  
@@ -44,5 +44,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ### 8. Contact Us  
 If you have any questions about this Privacy Policy, please contact us:
-  - **Email:** contact@lumiplays.com
-  - **Address:** 87-105 Chatham Road South, Tsim Sha Tsui, Hong Kong.
+  - **Email:** quyentv1994@gmail.com
+  - **Address:** CT1B - HatecoApolo, Xuân Phương, Hà Nội, Việt Nam.
